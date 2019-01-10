@@ -1,9 +1,9 @@
-###emsjs
+### emsjs
 ```
 + emsjs 是一个符合 AMD 规范的浏览器端 JavaScript 模块加载器，兼容所有主流浏览器;
 ```
 
-###最新版本 
+### 最新版本 
 ```
 +  v1.3.2
 ```
@@ -11,7 +11,7 @@
 ### 许可协议
 >[请您遵守LGPL协议，（点击可查看LGPL协议）](http://www.gnu.org/licenses/lgpl.html)
 
-###支持
+### 支持
 ```
 + IE
 + Chrome
@@ -20,7 +20,7 @@
 + Opera
 ```
 
-###联系
+### 联系
 ```
 + 作者：侯锋
 + 邮箱：admin@xhou.net
@@ -28,7 +28,7 @@
 + 邮件组：emsjs@googlegroups.com
 ```
 
-#####模块定义
+##### 模块定义
 ```javascript
 define([id],[deps...<require>,<exports>,<module>],
     function(... <require>,<exports>,<module>){
@@ -52,7 +52,7 @@ define([id],[deps...<require>,<exports>,<module>],
 });
 ```
 
-###快速指南
+### 快速指南
 
 ```html
 <!--方式一-->
